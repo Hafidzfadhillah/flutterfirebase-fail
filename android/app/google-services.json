@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "974024579853",
+    "project_id": "authentication-fuck",
+    "storage_bucket": "authentication-fuck.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:974024579853:android:c44a7bc6a034f808f62e44",
+        "android_client_info": {
+          "package_name": "com.example.flutterfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "974024579853-p4cmgnirlvc4u8qlkfjtde82hr0ardfa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmNoWPKjTgZT0QMUi-l3yqT1irmdnkGWw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "974024579853-p4cmgnirlvc4u8qlkfjtde82hr0ardfa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
